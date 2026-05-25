@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rupa Vani</h1>
-<h3 align="center">Aspiring Software Engineer | AI & Web Development Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Rupavani</h1>
+<h3 align="center">  AI Enthusiast | Web Developer | Problem Solver </h3>
 
 ---
 
@@ -24,10 +24,10 @@
 ### 🔹 Smart Notes App
 - Rich formatting notes app with search and themes
 
-### 🔹 College Enquiry Chatbot
+### 🔹 Rule Based College Enquiry Chatbot
 - AI chatbot for answering college-related questions
 
-### 🔹 Smart Dashboard
+### 🔹 Iot Based Smart Waste  Management System
 - Dynamic dashboard using public APIs
 
 ---
